@@ -1,0 +1,5 @@
+{
+  "name": "PR Semantic Checking (PR title and commit format)",
+  "description": "Checking PR semantic",
+  "iconName": "logo"
+}
