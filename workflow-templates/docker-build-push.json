@@ -1,0 +1,6 @@
+{
+  "name": "Docker Build & Push (ghcr.io)",
+  "description": "Building and pushing a docker image to ghcr.io",
+  "iconName": "logo",
+  "filePatterns": ["^Dockerfile"]
+}
