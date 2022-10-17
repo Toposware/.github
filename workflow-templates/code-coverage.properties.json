@@ -1,0 +1,6 @@
+{
+  "name": "Code Coverage (Rust)",
+  "description": "Using Tarpaulin and Codecov to track down code coverage",
+  "iconName": "logo",
+  "categories": ["Rust"]
+}
