@@ -18,20 +18,24 @@ labels: bug
 
 <!-- What commands in order should someone run to reproduce your problem? -->
 
-## Expected behavior
+## Expected Behavior
 
 <!-- A clear and concise description of what you expected to happen -->
 
+## Actual Observed Behavior
+
+<!-- A clear and concise description of what you observed happening -->
+
 ## Screenshots
 
-<!-- If applicable, add screenshots to help explain your problem. -->
+<!-- If applicable, add screenshots to help explain your problem -->
 
 ## Version
 
-- OS Name: [e.g. Ubuntu]
-- OS Version [e.g. 20.04]
-- CLI Version (output of `topos --version`)
+- OS Name: [e.g., Ubuntu]
+- OS Version: [e.g., 20.04]
+- Software Version: [e.g., 1.0.4-beta2]
 
 ## Additional context
 
-<!-- Add any other context about the problem here. -->
+<!-- Add any other context about the problem here -->
