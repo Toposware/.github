@@ -1,7 +1,7 @@
 ---
-name: Bug Report
-about: Create a report to help us solve bugs!
-labels: bug
+name: Feature Request
+about: Propose a new feature!
+labels: feature request
 ---
 
 <!--
