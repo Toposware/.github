@@ -35,6 +35,7 @@ labels: bug
 - OS Name: [e.g., Ubuntu]
 - OS Version: [e.g., 20.04]
 - Software Version: [e.g., 1.0.4-beta2]
+- Other environment/deployment details and/or version information: [e.g., docker/k8s context]
 
 ## Additional context
 
