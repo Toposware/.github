@@ -4,36 +4,20 @@ Please include a summary of the changes and the related issue. Please also inclu
 
 Fixes # (issue)
 
-## Type of change
+## Additions and Changes
 
-Please delete options that are not relevant.
+Please explain in detail, if applicable, which changes you performed in the PR and link them to issues. (If not applicable you can remove this whole section)
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+### Bug fix (non-breaking change which fixes an issue)
+### New feature (non-breaking change which adds functionality)
 
-# How Has This Been Tested?
+## Breaking changes
 
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
+Please explain in detail which changes are breaking changes in the PR. (If not applicable you can remove this whole section)
 
-- [ ] Test A
-- [ ] Test B
+## PR Checklist:
 
-**Test Configuration**:
-
-- Firmware version:
-- Hardware:
-- Toolchain:
-- SDK:
-
-# Checklist:
-
-- [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my code
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
 - [ ] I have added or updated tests that comprehensively prove my change is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
